@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="margin_s" type="dimen">8dp</item>
+    <item name="margin_s1" type="dimen">12dp</item>
+    <item name="margin_s2" type="dimen">16dp</item>
+    <item name="margin_s3" type="dimen">20dp</item>
+    <item name="margin_s4" type="dimen">24dp</item>
+    <item name="margin_s5" type="dimen">30dp</item>
+    <item name="margin_s6" type="dimen">32dp</item>
+    <item name="margin_s7" type="dimen">40dp</item>
+    <item name="margin_s8" type="dimen">50dp</item>
+    <item name="margin_s9" type="dimen">150dp</item>
+    <item name="margin_s10" type="dimen">100dp</item>
+    <item name="margin_s11" type="dimen">250dp</item>
+    <item name="margin_s12" type="dimen">300dp</item>
+
+    <item name="text_s" type="dimen">8sp</item>
+    <item name="text_s1" type="dimen">12sp</item>
+    <item name="text_s2" type="dimen">16sp</item>
+    <item name="text_s3" type="dimen">20sp</item>
+    <item name="text_s4" type="dimen">24sp</item>
+    <item name="text_s5" type="dimen">30sp</item>
+    <item name="text_s6" type="dimen">32sp</item>
+</resources>
